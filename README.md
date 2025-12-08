@@ -2,7 +2,7 @@
 
 # LLM-based Human Activity Recognition for IoT Applications
 
-This repository contains the implementation of Large Language Models (LLMs) for zero-shot Human Activity Recognition (HAR) using IMU sensor data from the HHAR dataset. 
+This repository contains the implementation of Large Language Models (LLMs) for zero-shot Human Activity Recognition (HAR) using IMU sensor data from the HHAR dataset[1]. 
 The project evaluates how data preprocessing, feature extraction, and prompt engineering affect both accuracy and inference cost (tokens) using the model GPT-5.
 
 We evaluate GPT-5’s performance when classifying four activities:
@@ -62,5 +62,9 @@ and cost-efficiency.
 * Best performance achieved using Raw + 0% overlap
 * Best cost-efficiency achieved using Feature Extraction
 * CoT improves interpretability but increases cost
+
+
+## References
+[1]: https://archive.ics.uci.edu/ml/datasets/heterogeneity+activity+recognition
 
 
