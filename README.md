@@ -65,6 +65,7 @@ and cost-efficiency.
 
 
 ## References
-[1]: https://archive.ics.uci.edu/ml/datasets/heterogeneity+activity+recognition
+1. HHAR Dataset: https://archive.ics.uci.edu/ml/datasets/heterogeneity+activity+recognition
+
 
 
