@@ -32,7 +32,7 @@ and cost-efficiency.
 | 50%_Overlapping.ipynb | Experiment 1 — HAR using raw IMU data with 50% overlap |
 | feature_extraction.ipynb | Experiment 2 — HAR using six extracted features per window |
 | Chain-of-Thought_code.ipynb | Experiment 3 — Prompt engineering: DO vs CoT |
-| Dataset | The HHAR dataset used in this project |
+
 
 
 
